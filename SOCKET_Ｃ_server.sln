@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SOCKET_Ｃ_server", "SOCKET_Ｃ_server\SOCKET_Ｃ_server.vcxproj", "{48087030-0279-4614-947C-56083A16A737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48087030-0279-4614-947C-56083A16A737}.Debug|x64.ActiveCfg = Debug|x64
+		{48087030-0279-4614-947C-56083A16A737}.Debug|x64.Build.0 = Debug|x64
+		{48087030-0279-4614-947C-56083A16A737}.Debug|x86.ActiveCfg = Debug|Win32
+		{48087030-0279-4614-947C-56083A16A737}.Debug|x86.Build.0 = Debug|Win32
+		{48087030-0279-4614-947C-56083A16A737}.Release|x64.ActiveCfg = Release|x64
+		{48087030-0279-4614-947C-56083A16A737}.Release|x64.Build.0 = Release|x64
+		{48087030-0279-4614-947C-56083A16A737}.Release|x86.ActiveCfg = Release|Win32
+		{48087030-0279-4614-947C-56083A16A737}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD19033B-9830-434A-AA60-8C433E9E7898}
+	EndGlobalSection
+EndGlobal
